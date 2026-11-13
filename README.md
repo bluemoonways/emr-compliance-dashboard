@@ -7,6 +7,8 @@ A web-based audit and compliance tracking system built on **Google Apps Script**
 
 ---
 
+## Flow Chart Architecture
+
 ## Key Features
 
 - **Role-Based Access Control (5 Roles):** Granular permissions for `Admin`, `CO` (Provincial Officer), `Senior`, `Division`, and `Viewer`.
