@@ -7,8 +7,10 @@ A web-based audit and compliance tracking system built on **Google Apps Script**
 
 ---
 
-## Flow Chart Architecture
+## System Architecture
+
 ![EMR Compliance Dashboard Architecture Overview](./Flow%20chart/EMR_Compliance_Dashboard_Architecture_Overview.png)
+
 ## Key Features
 
 - **Role-Based Access Control (5 Roles):** Granular permissions for `Admin`, `CO` (Provincial Officer), `Senior`, `Division`, and `Viewer`.
