@@ -2,7 +2,7 @@
 
 A web-based audit and compliance tracking system built on **Google Apps Script** and **Google Sheets** for **Dawat-e-Islami Trust**. The application streamlines monthly audit query management, division-level responses, senior verification workflows, performance rankings, and automated email reminders across provinces and divisions.
 
-- **Version:** 1.1 (October 2026)
+- **Version:** 1.0 (October 2026)
 - **Developed by:** Bluemoonways (`info.bluemoonways@gmail.com`)
 
 ---
