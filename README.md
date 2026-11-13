@@ -8,7 +8,6 @@ A web-based audit and compliance tracking system built on **Google Apps Script**
 ---
 
 ## System Architecture
-
 ![EMR Compliance Dashboard Architecture Overview](./Flow%20chart/EMR_Compliance_Dashboard_Architecture_Overview.png)
 
 ## Key Features
